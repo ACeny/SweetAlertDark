@@ -3,10 +3,12 @@ SweetAlertDark
 >基于SweetAlert的深色弹窗组件https://www.sweetalert.cn/
 
 >调用方法:
+>js和css载入请看实例html~
 ><script type="text/javascript">swal("标题","内容","图标类型");</script>
+
 >或食用CDN加载:
-><link href="https://cdn.jsdelivr.net/gh/XenACeny/SweetAlertDark/swal.dark.css">
-><script src="https://cdn.jsdelivr.net/gh/XenACeny/SweetAlertDark/swal.dark.js">
+>https://cdn.jsdelivr.net/gh/XenACeny/SweetAlertDark/swal.dark.css
+>https://cdn.jsdelivr.net/gh/XenACeny/SweetAlertDark/swal.dark.js
 
 >图标类型
 >错误/失败：error
