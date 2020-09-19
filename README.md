@@ -3,12 +3,13 @@ SweetAlertDark
 >基于SweetAlert的深色弹窗组件https://www.sweetalert.cn/
 
 >调用方法:
-js和css载入请看实例html~
-<script type="text/javascript">swal("标题","内容","图标类型");</script>
+>js和css载入请看实例html~
+><script type="text/javascript">swal("标题","内容","图标类型");</script>
 
 >或食用CDN加载:
-https://cdn.jsdelivr.net/gh/XenACeny/SweetAlertDark/swal.dark.css
-https://cdn.jsdelivr.net/gh/XenACeny/SweetAlertDark/swal.dark.js
+>
+>https://cdn.jsdelivr.net/gh/XenACeny/SweetAlertDark/swal.dark.css
+>https://cdn.jsdelivr.net/gh/XenACeny/SweetAlertDark/swal.dark.js
 
 >图标类型
 >错误/失败：error
@@ -17,6 +18,6 @@ https://cdn.jsdelivr.net/gh/XenACeny/SweetAlertDark/swal.dark.js
 >警告/重要：warning
 
 >重要提示
-1. SweetAlertDark不可与SweetAlert同时加载
-2. 请务必设置网页编码utf-8否则会出现中文乱码！
-可以在head加入charset=UTF-8"
+>1. SweetAlertDark不可与SweetAlert同时加载
+>2. 请务必设置网页编码utf-8否则会出现中文乱码！
+>可以在head加入charset=UTF-8"
